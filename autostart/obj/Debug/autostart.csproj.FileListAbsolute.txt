@@ -1,0 +1,10 @@
+C:\Users\David$$\Desktop\autostart_v2\autostart\bin\Debug\autostart.exe.config
+C:\Users\David$$\Desktop\autostart_v2\autostart\bin\Debug\autostart.exe
+C:\Users\David$$\Desktop\autostart_v2\autostart\bin\Debug\autostart.pdb
+C:\Users\David$$\Desktop\autostart_v2\autostart\obj\Debug\autostart.csproj.AssemblyReference.cache
+C:\Users\David$$\Desktop\autostart_v2\autostart\obj\Debug\autostart.Form1.resources
+C:\Users\David$$\Desktop\autostart_v2\autostart\obj\Debug\autostart.Properties.Resources.resources
+C:\Users\David$$\Desktop\autostart_v2\autostart\obj\Debug\autostart.csproj.GenerateResource.cache
+C:\Users\David$$\Desktop\autostart_v2\autostart\obj\Debug\autostart.csproj.CoreCompileInputs.cache
+C:\Users\David$$\Desktop\autostart_v2\autostart\obj\Debug\autostart.exe
+C:\Users\David$$\Desktop\autostart_v2\autostart\obj\Debug\autostart.pdb
